@@ -1,11 +1,11 @@
 # Site settings
-title: Vox Product Code of Conduct
-email: support@voxmedia.com
+title: Open Source and Feelings Organizer Code of Conduct
+email: hello@osfeels.com
 description: > # This code of conduct governs the environment of the Vox Product team.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code-of-conduct.voxmedia.com" # the base hostname & protocol for your site
-twitter_username: voxproduct
-github_username:  voxmedia
+url: "" # the base hostname & protocol for your site
+twitter_username: osfeels
+github_username:  osfeels
 
 # Build settings
 markdown: kramdown

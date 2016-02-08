@@ -1,20 +1,8 @@
-# Vox Product Code of Conduct
-
-The complete code of conduct can be read at [code-of-conduct.voxmedia.com](http://code-of-conduct.voxmedia.com)
-
+# Open Source and Feelings Organizer Code of Conduct
+The complete code of conduct can be read at []()
 
 ## Credit
-
-The entire Vox Product team contributed to and reviewed this code of conduct, but special credit goes to the following team members who made significant contributions:
-
-- Georgia Cowley
-- Ally Palanzi
-- Brittany Holloway-Brown
-- Mariah Minigan
-- Nancy Seay
-- Lauren Fisher
-- Alexis Juneja
-- Mandy Brown
+This code of conduct is based on the [Vox Product Code of Conduct](http://code-of-conduct.voxmedia.com/)
 
 ## Development
 This code of conduct is built using [Jekyll](http://www.jekyllrb.com). To develop on this locally, you must:

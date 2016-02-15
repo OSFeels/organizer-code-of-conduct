@@ -4,7 +4,7 @@ title: Further reading
 date: 2015-06-11 00:05:00
 ---
 
-In creating this code of conduct, we were inspired by the [SRCCON code of conduct](http://srccon.org/conduct/), the [Recurse Center User’s Manual](https://www.recurse.com/manual), and guidelines from the [Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/). 
+In creating this code of conduct (based on [Vox Media’s](http://code-of-conduct.voxmedia.com/)), we were inspired by the [SRCCON code of conduct](http://srccon.org/conduct/), the [Recurse Center User’s Manual](https://www.recurse.com/manual), and guidelines from the [Ada Initiative](https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/). 
 
 In addition, we consulted many excellent resources, including:
 

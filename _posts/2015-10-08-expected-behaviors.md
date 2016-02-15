@@ -6,7 +6,7 @@ date: 2015-10-08 00:09:00
 
 Every member of the team is expected to work hard, be considerate of their colleagues, and contribute to a collaborative, positive, and healthy environment in which we can all succeed. 
 
-![](/images/robotheart.png){: .right }
+![](images/robotheart.png){: .right }
 
 **Be supportive of your colleagues**, both proactively and responsively. Offer to help if you see someone struggling or otherwise in need of assistance (taking care not to be patronizing or disrespectful). If someone approaches you looking for help, be generous with your time; if you’re under a deadline, direct them to someone else who may be of assistance. Go out of your way to include people in team jokes or memes, recognizing that we want to build an environment free of cliques. 
 

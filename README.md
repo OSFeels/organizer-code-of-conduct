@@ -1,5 +1,5 @@
 # Open Source and Feelings Organizer Code of Conduct
-The complete code of conduct can be read at []()
+The complete code of conduct can be read at [http://www.osfeels.com/organizer-code-of-conduct/](http://www.osfeels.com/organizer-code-of-conduct/)
 
 ## Credit
 This code of conduct is based on the [Vox Product Code of Conduct](http://code-of-conduct.voxmedia.com/)
